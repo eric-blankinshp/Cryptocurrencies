@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-##Overview
+## Overview
 
 The focus of this project was to use unsupervised machine learning to examine cryptocurrency data. The following steps were taken:
 
